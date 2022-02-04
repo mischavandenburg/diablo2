@@ -1,0 +1,24 @@
+
+Session length: 02:56:12
+Games: 232
+Avg Game Length: 00:00:45
+╭────────┬───────┬─────────┬───────┬────────────┬─────────────╮
+│  Run   │ Items │ Chicken │ Death │ Merc Death │ Failed Runs │
+├────────┼───────┼─────────┼───────┼────────────┼─────────────┤
+│ Pindle │  10   │    0    │   0   │     0      │      0      │
+├────────┼───────┼─────────┼───────┼────────────┼─────────────┤
+│ Total  │  10   │    0    │   0   │     0      │      0      │
+╰────────┴───────┴─────────┴───────┴────────────┴─────────────╯
+
+Items:
+  Pindle:
+    rare_coronet
+    set_griswold_valor
+    magic_small_charm
+    uniq_misc_amulets
+    rare_circlet
+    rare_circlet
+    set_trang-oul_girth
+    rare_jewel
+    rare_circlet
+    magic_small_charm
