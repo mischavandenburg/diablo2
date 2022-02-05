@@ -9,5 +9,10 @@ or  create the data folder if necessary<br>
 5 run this command: "python3 total_runs.py"<br>
 6 it should print the total runs to the terminal<br>
 <br>
+# Errors
+If you are getting an error like:<br>
+"UnicodeDecodeError: 'utf-8' codec can't decode byte 0x80"<br>
+If you are running MacOS: remove the .DS_Store file from your directories<br>
+<br>
 By Mischa van den Burg<br>
 www.mischavandenburg.com
