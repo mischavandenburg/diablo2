@@ -1,0 +1,18 @@
+
+Session length: 02:12:52
+Games: 92
+Avg Game Length: 00:01:26
+╭──────┬───┬───┬───┬────┬───╮
+│ Run  │ I │ C │ D │ MD │ F │
+├──────┼───┼───┼───┼────┼───┤
+│ Trav │ 4 │ 1 │ 2 │ 0  │ 1 │
+├──────┼───┼───┼───┼────┼───┤
+│  T   │ 4 │ 1 │ 2 │ 0  │ 1 │
+╰──────┴───┴───┴───┴────┴───╯
+
+Items:
+  Trav:
+    magic_small_charm
+    rune_8_ral
+    set_misc_amulets
+    rune_20_lem

@@ -1,0 +1,28 @@
+
+Session length: 11:17:50
+Games: 280
+Avg Game Length: 00:02:26
+╭──────┬───┬────┬───┬────┬───╮
+│ Run  │ I │ C  │ D │ MD │ F │
+├──────┼───┼────┼───┼────┼───┤
+│ Eld  │ 0 │ 0  │ 0 │ 0  │ 0 │
+├──────┼───┼────┼───┼────┼───┤
+│ Shk  │ 6 │ 0  │ 0 │ 1  │ 6 │
+├──────┼───┼────┼───┼────┼───┤
+│ Nihl │ 2 │ 17 │ 8 │ 13 │ 1 │
+├──────┼───┼────┼───┼────┼───┤
+│  T   │ 8 │ 17 │ 8 │ 14 │ 7 │
+╰──────┴───┴────┴───┴────┴───╯
+
+Items:
+  Eld:
+  Shk:
+    rune_21_pul
+    magic_small_charm
+    uniq_misc_rings
+    magic_small_charm
+    set_tal_rasha_fine-spun_cloth
+    uniq_weapon_stormlash
+  Nihl:
+    rune_23_mal
+    white_superior_wyrmhide

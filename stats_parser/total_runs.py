@@ -9,18 +9,27 @@ pindle_total = 0
 eldritch_total = 0
 shenk_total = 0
 nihla_total = 0
+travincal_total = 0
 total_list = []
 
 regex_games = re.compile(r"Games:")
 regex_dict = {
 'nihla': 'Nihl|Nihlatak',
 'pindle': 'Pin|Pindle',
-'eldritch': 'Eld'
+'eldritch': 'Eld',
+'travincal': 'Trav'
 }
+
+# encountered a problem that the script stops on .DS store files. 
+# TODO implement that the file is skipped if the filename contains DS store
+# for now use this command on mac to delete all .DS_Store files recursively 
+# find . -name '.DS_Store' -type f -delete
 
 for folder_name, sub_folder, file_names in os.walk(source):
     for filename in file_names:
         p = PurePath(folder_name, filename)
+        # print(p)
+        #print(filename)
         with open(p, 'rt') as my_file:
             # search for games number line
             for line in my_file:
@@ -38,7 +47,8 @@ for folder_name, sub_folder, file_names in os.walk(source):
                             globals()[f"{key}_total"] += int(g[1])
 
 # print the result
-print(f"Total runs: {total_games}")
 print(f"Pindle runs: {pindle_total}")
 print(f"Eldritch + Shenk runs: {eldritch_total}")
 print(f"Nihla runs: {nihla_total}")
+print(f"Travi runs: {travincal_total}")
+print(f"Total runs: {total_games}")

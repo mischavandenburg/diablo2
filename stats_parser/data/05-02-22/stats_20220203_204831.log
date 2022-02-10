@@ -1,0 +1,31 @@
+
+Session length: 00:52:59
+Games: 21
+Avg Game Length: 00:02:35
+╭──────┬────┬───┬───┬────┬───╮
+│ Run  │ I  │ C │ D │ MD │ F │
+├──────┼────┼───┼───┼────┼───┤
+│ Eld  │ 0  │ 0 │ 0 │ 0  │ 0 │
+├──────┼────┼───┼───┼────┼───┤
+│ Shk  │ 8  │ 1 │ 0 │ 1  │ 1 │
+├──────┼────┼───┼───┼────┼───┤
+│ Nihl │ 3  │ 1 │ 1 │ 0  │ 1 │
+├──────┼────┼───┼───┼────┼───┤
+│  T   │ 11 │ 2 │ 1 │ 1  │ 2 │
+╰──────┴────┴───┴───┴────┴───╯
+
+Items:
+  Eld:
+  Shk:
+    rare_ring
+    rare_mesh_boots
+    rare_runic_talons
+    magic_greater_talons
+    magic_coronet
+    rare_jareds_stone
+    uniq_bartucs_talons
+    rare_heavy_gloves
+  Nihl:
+    misc_key_of_destruction
+    rare_jewel
+    rare_ring

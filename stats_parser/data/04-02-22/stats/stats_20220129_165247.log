@@ -1,0 +1,61 @@
+
+Session length: 03:22:15
+Games: 156
+Avg Game Length: 00:01:13
+╭──────────┬───────┬─────────┬───────┬────────────┬─────────────╮
+│   Run    │ Items │ Chicken │ Death │ Merc Death │ Failed Runs │
+├──────────┼───────┼─────────┼───────┼────────────┼─────────────┤
+│  Pindle  │  18   │    0    │   0   │     0      │      4      │
+├──────────┼───────┼─────────┼───────┼────────────┼─────────────┤
+│ Eldritch │  26   │    0    │   0   │     0      │      0      │
+├──────────┼───────┼─────────┼───────┼────────────┼─────────────┤
+│  Total   │  44   │    0    │   0   │     0      │      4      │
+╰──────────┴───────┴─────────┴───────┴────────────┴─────────────╯
+
+Items:
+  Pindle:
+    rare_ring
+    rare_ring
+    uniq_hotspur
+    rare_tiara
+    rare_circlet
+    rare_circlet
+    rare_circlet
+    magic_grand_charm
+    rare_amulet
+    set_cleglaws_pincers
+    rare_ring
+    magic_grand_charm
+    magic_small_charm
+    magic_small_charm
+    rare_amulet
+    magic_grand_charm
+    magic_grand_charm
+    uniq_hotspur
+  Eldritch:
+    rare_amulet
+    magic_jewel
+    gray_armor_dusk_shroud
+    magic_small_charm
+    magic_gg_club
+    magic_small_charm
+    rare_amulet
+    set_misc_amulets
+    set_griswolds_armor
+    uniq_belt_verdungo_hearty_cord
+    rare_circlet
+    uniq_hotspur
+    rare_ring
+    rare_ring
+    magic_grand_charm
+    magic_grand_charm
+    magic_gg_club
+    magic_small_charm
+    rare_amulet
+    rare_amulet
+    magic_grand_charm
+    set_misc_amulets
+    rare_jareds_stone
+    rare_jewel
+    magic_grand_charm
+    rare_ring
