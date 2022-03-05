@@ -1,0 +1,24 @@
+
+Session length: 05:18:51
+Games: 39
+Avg Game Length: 00:09:19
+╭─────┬────┬───┬───┬────┬────╮
+│ Run │ I  │ C │ D │ MD │ F  │
+├─────┼────┼───┼───┼────┼────┤
+│ Dia │ 10 │ 1 │ 0 │ 5  │ 11 │
+├─────┼────┼───┼───┼────┼────┤
+│  T  │ 10 │ 1 │ 0 │ 5  │ 11 │
+╰─────┴────┴───┴───┴────┴────╯
+
+Items:
+  Dia:
+    rare_ring
+    set_misc_amulets
+    rare_ring
+    rare_ring
+    uniq_weapon_chromatic_ire
+    set_misc_amulets
+    rare_ring
+    uniq_misc_rings
+    uniq_misc_amulets
+    gray_armor_balrog

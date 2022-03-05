@@ -1,0 +1,23 @@
+
+Session length: 09:43:30
+Games: 76
+Avg Game Length: 00:08:27
+╭─────┬───┬───┬───┬────┬────╮
+│ Run │ I │ C │ D │ MD │ F  │
+├─────┼───┼───┼───┼────┼────┤
+│ Dia │ 9 │ 1 │ 0 │ 5  │ 12 │
+├─────┼───┼───┼───┼────┼────┤
+│  T  │ 9 │ 1 │ 0 │ 5  │ 12 │
+╰─────┴───┴───┴───┴────┴────╯
+
+Items:
+  Dia:
+    set_hsarus_belt
+    set_hsarus_belt
+    uniq_weapon_felloak
+    set_cow_king_boots
+    set_hsarus_belt
+    uniq_weapon_the_reaper_toll
+    set_misc_amulets
+    set_sanders_helm
+    set_sanders_helm

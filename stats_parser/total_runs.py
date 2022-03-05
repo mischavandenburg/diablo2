@@ -47,9 +47,12 @@ for folder_name, sub_folder, file_names in os.walk(source):
                             globals()[f"{key}_total"] += int(g[1])
 
 # print the result
+print(f"Mephisto runs: 1300")
+print(f"Lower Kurast runs: 1700")
+print(f"Pit runs: 300")
 print(f"Pindle runs: {pindle_total}")
 print(f"Eldritch + Shenk runs: {eldritch_total}")
 print(f"Nihla runs: {nihla_total}")
 print(f"Travi runs: {travincal_total}")
 print(f"Diablo runs: {diablo_total}")
-print(f"Total runs: {total_games}")
+print(f"Total runs: {total_games + 3300}")
