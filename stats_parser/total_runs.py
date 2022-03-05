@@ -16,7 +16,7 @@ total_list = []
 regex_games = re.compile(r"Games:")
 regex_dict = {
 'nihla': 'Nihl|Nihlatak',
-'pindle': 'Pin|Pindle',
+'pindle': 'Pin',
 'eldritch': 'Eld',
 'travincal': 'Trav',
 'diablo': 'Dia'
@@ -45,6 +45,11 @@ for folder_name, sub_folder, file_names in os.walk(source):
                         # if there is a match, add the numbers to the total variable
                         if reg.search(file_read):
                             globals()[f"{key}_total"] += int(g[1])
+                            if int(g[1]) > 200 and "pindle" in key:
+                                print(int(g[1]))
+                                print(key)
+                                print(p)
+
 
 # print the result
 print(f"Mephisto runs: 1300")

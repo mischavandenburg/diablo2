@@ -1,0 +1,181 @@
+./files.txt
+./README.md
+./total_runs.py
+./data/stats_20220202_213244.log
+./data/stats_20220203_082616.log
+./data/stats_20220203_094921.log
+./data/stats_20220131_200702.log
+./data/7feb pull/stats/stats_20220207_090539.log
+./data/7feb pull/stats/stats_20220207_065410.log
+./data/7feb pull/stats/stats_20220207_081740.log
+./data/18-02-22/stats/stats_20220218_114823.log
+./data/18-02-22/stats/stats_20220216_193329.log
+./data/18-02-22/stats/stats_20220217_220241.log
+./data/18-02-22/stats/stats_20220218_155614.log
+./data/18-02-22/stats/stats_20220216_213032.log
+./data/18-02-22/stats/stats_20220216_162712.log
+./data/18-02-22/stats/stats_20220218_094240.log
+./data/18-02-22/stats/stats_20220217_075534.log
+./data/stats_20220129_160546.log
+./data/03-03-22 players 5/stats/stats_20220227_213842.log
+./data/03-03-22 players 5/stats/stats_20220228_214547.log
+./data/03-03-22 players 5/stats/stats_20220301_214454.log
+./data/03-03-22 players 5/stats/stats_20220301_092427.log
+./data/03-03-22 players 5/stats/stats_20220226_222526.log
+./data/03-03-22 players 5/stats/stats_20220226_105532.log
+./data/03-03-22 players 5/stats/stats_20220302_214446.log
+./data/stats_20220131_063754.log
+./data/20-02-22 players 3/stats/stats_20220219_084454.log
+./data/20-02-22 players 3/stats/stats_20220218_192207.log
+./data/20-02-22 players 3/stats/stats_20220218_191102.log
+./data/20-02-22 players 3/stats/stats_20220219_214535.log
+./data/20-02-22 players 3/stats/stats_20220218_211324.log
+./data/stats_20220202_104745.log
+./data/stats_20220203_141659.log
+./data/05-02-22/stats_20220203_215301.log
+./data/05-02-22/stats_20220205_090754.log
+./data/05-02-22/stats_20220204_195243.log
+./data/05-02-22/stats_20220204_202031.log
+./data/05-02-22/stats_20220205_093703.log
+./data/05-02-22/stats_20220205_053018.log
+./data/05-02-22/stats_20220203_230454.log
+./data/05-02-22/stats_20220204_071152.log
+./data/05-02-22/stats_20220203_223055.log
+./data/05-02-22/stats_20220203_204831.log
+./data/6feb pull/stats/stats_20220206_172309.log
+./data/6feb pull/stats/stats_20220207_062638.log
+./data/6feb pull/stats/stats_20220206_095425.log
+./data/6feb pull/stats/stats_20220206_103741.log
+./data/6feb pull/stats/stats_20220206_093621.log
+./data/6feb pull/stats/stats_20220207_064015.log
+./data/6feb pull/stats/stats_20220206_180739.log
+./data/6feb pull/stats/stats_20220206_115300.log
+./data/6feb pull/stats/stats_20220206_202823.log
+./data/6feb pull/stats/stats_20220206_100736.log
+./data/6feb pull/stats/stats_20220206_100140.log
+./data/stats_20220202_212202.log
+./data/stats_20220203_085131.log
+./data/stats_20220202_215333.log
+./data/stats_20220201_142433.log
+./data/stats_20220202_071424.log
+./data/stats_20220201_083124.log
+./data/stats_20220131_180318.log
+./data/26-02-22 players 5/stats/stats_20220222_210426.log
+./data/26-02-22 players 5/stats/stats_20220221_080457.log
+./data/26-02-22 players 5/stats/stats_20220220_112833.log
+./data/26-02-22 players 5/stats/stats_20220224_075532.log
+./data/26-02-22 players 5/stats/stats_20220220_210350.log
+./data/26-02-22 players 5/stats/stats_20220224_215313.log
+./data/26-02-22 players 5/stats/stats_20220221_220418.log
+./data/26-02-22 players 5/stats/stats_20220220_210749.log
+./data/26-02-22 players 5/stats/stats_20220223_223459.log
+./data/26-02-22 players 5/stats/stats_20220225_230825.log
+./data/04-02-22/stats/stats_20220202_213244.log
+./data/04-02-22/stats/stats_20220203_082616.log
+./data/04-02-22/stats/stats_20220203_094921.log
+./data/04-02-22/stats/stats_20220131_200702.log
+./data/04-02-22/stats/stats_20220129_160546.log
+./data/04-02-22/stats/stats_20220131_063754.log
+./data/04-02-22/stats/stats_20220202_104745.log
+./data/04-02-22/stats/stats_20220203_141659.log
+./data/04-02-22/stats/stats_20220202_212202.log
+./data/04-02-22/stats/stats_20220203_085131.log
+./data/04-02-22/stats/stats_20220202_215333.log
+./data/04-02-22/stats/stats_20220201_142433.log
+./data/04-02-22/stats/stats_20220202_071424.log
+./data/04-02-22/stats/stats_20220201_083124.log
+./data/04-02-22/stats/stats_20220131_180318.log
+./data/04-02-22/stats/stats_20220202_074413.log
+./data/04-02-22/stats/stats_20220202_220039.log
+./data/04-02-22/stats/stats_20220130_211555.log
+./data/04-02-22/stats/stats_20220203_124640.log
+./data/04-02-22/stats/stats_20220131_065607.log
+./data/04-02-22/stats/stats_20220129_161024.log
+./data/04-02-22/stats/stats_20220130_205456.log
+./data/04-02-22/stats/stats_20220203_113010.log
+./data/04-02-22/stats/stats_20220203_072038.log
+./data/04-02-22/stats/stats_20220129_165247.log
+./data/04-02-22/stats/stats_20220202_162723.log
+./data/04-02-22/stats/stats_20220202_071011.log
+./data/04-02-22/stats/stats_20220201_202539.log
+./data/04-02-22/stats/stats_20220203_083014.log
+./data/04-02-22/stats/stats_20220201_225542.log
+./data/04-02-22/stats/stats_20220131_070345.log
+./data/04-02-22/stats/stats_20220203_080332.log
+./data/04-02-22/stats/stats_20220202_163921.log
+./data/04-02-22/stats/stats_20220130_064106.log
+./data/04-02-22/stats/stats_20220130_074103.log
+./data/04-02-22/stats/stats_20220203_075319.log
+./data/04-02-22/stats/stats_20220203_075907.log
+./data/04-02-22/stats/stats_20220203_084444.log
+./data/04-02-22/stats/stats_20220129_162207.log
+./data/04-02-22/stats/stats_20220202_214725.log
+./data/04-02-22/stats/stats_20220202_104439.log
+./data/stats_20220202_074413.log
+./data/stats_20220202_220039.log
+./data/10 feb/stats_20220210_082700.log
+./data/10 feb/stats_20220206_172309.log
+./data/10 feb/stats_20220207_062638.log
+./data/10 feb/stats_20220206_095425.log
+./data/10 feb/stats_20220206_103741.log
+./data/10 feb/stats_20220206_093621.log
+./data/10 feb/stats_20220207_064015.log
+./data/10 feb/stats_20220206_180739.log
+./data/10 feb/stats_20220209_081928.log
+./data/10 feb/stats_20220206_115300.log
+./data/10 feb/stats_20220206_202823.log
+./data/10 feb/stats_20220206_100736.log
+./data/10 feb/stats_20220209_081316.log
+./data/10 feb/stats_20220206_100140.log
+./data/10 feb/stats_20220207_090539.log
+./data/10 feb/stats_20220207_065410.log
+./data/10 feb/stats_20220208_191057.log
+./data/10 feb/stats_20220208_070451.log
+./data/10 feb/stats_20220207_081740.log
+./data/stats_20220130_211555.log
+./data/stats_20220203_124640.log
+./data/13-02-22/stats_20220212_192821.log
+./data/13-02-22/stats_20220212_081849.log
+./data/13-02-22/stats_20220212_155149.log
+./data/13-02-22/stats_20220213_084151.log
+./data/13-02-22/stats_20220212_154358.log
+./data/13-02-22/stats_20220212_082409.log
+./data/13-02-22/stats_20220212_110555.log
+./data/stats_20220131_065607.log
+./data/stats_20220129_161024.log
+./data/stats_20220130_205456.log
+./data/stats_20220203_113010.log
+./data/stats_20220203_072038.log
+./data/stats_20220129_165247.log
+./data/17-02-22/stats/stats_20220216_193329.log
+./data/17-02-22/stats/stats_20220216_213032.log
+./data/17-02-22/stats/stats_20220216_162712.log
+./data/17-02-22/stats/stats_20220217_075534.log
+./data/stats_20220202_162723.log
+./data/stats_20220202_071011.log
+./data/stats_20220201_202539.log
+./data/15-02-22/stats/stats_20220215_075057.log
+./data/stats_20220203_083014.log
+./data/stats_20220201_225542.log
+./data/stats_20220131_070345.log
+./data/stats_20220203_080332.log
+./data/stats_20220202_163921.log
+./data/stats_20220130_064106.log
+./data/stats_20220130_074103.log
+./data/14-02-22/stats_20220214_074946.log
+./data/14-02-22/stats_20220214_014256.log
+./data/22-02-22 players 3/stats/stats_20220221_080457.log
+./data/22-02-22 players 3/stats/stats_20220220_112833.log
+./data/22-02-22 players 3/stats/stats_20220220_210350.log
+./data/22-02-22 players 3/stats/stats_20220221_220418.log
+./data/22-02-22 players 3/stats/stats_20220220_210749.log
+./data/stats_20220203_075319.log
+./data/stats_20220203_075907.log
+./data/stats_20220203_084444.log
+./data/stats_20220129_162207.log
+./data/stats_20220202_214725.log
+./data/16-02-22/3/info.log
+./data/16-02-22/stats/stats_20220215_220921.log
+./data/16-02-22/2/stats_20220216_083121.log
+./data/16-02-22/2/info.log
+./data/stats_20220202_104439.log
