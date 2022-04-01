@@ -3,7 +3,7 @@ A simple script that copies the info.log to my Google Drive every minute.
 
 Mischa van den Burg
 www.mischavandenburg.com
-
+test
 '''
 
 from pathlib import Path 

@@ -1,0 +1,9 @@
+Mephisto runs: 1300
+Lower Kurast runs: 1700
+Pit runs: 300
+Pindle runs: 7675
+Eldritch + Shenk runs: 806
+Nihla runs: 709
+Travi runs: 5861
+Diablo runs: 4510
+Total runs: 22018
